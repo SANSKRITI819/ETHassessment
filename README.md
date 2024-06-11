@@ -23,6 +23,7 @@ Now we will burn 1000 balance similarly and check the total supply which will be
 
 
 
-## Authors
-
-Harsh Jha - +91 6299928212
+## Author
+SANSKRITI BHARDWAJ
+CHANDIGARH UNIVERSITY
+CONTACT- +91 9122320676
